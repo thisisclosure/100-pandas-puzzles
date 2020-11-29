@@ -1,6 +1,6 @@
 # 100 pandas puzzles
 
-### [Puzzles notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thisisclosure/100-pandas-puzzles/HEAD?filepath=%2Fblob%2Fmaster%2F100-pandas-puzzles.ipynb)
+### [Puzzles notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thisisclosure/100-pandas-puzzles/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fthisisclosure%2F100-pandas-puzzles%2Fblob%2Fmaster%2F100-pandas-puzzles.ipynb)
 
 ### [Solutions notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles-with-solutions.ipynb)
 
